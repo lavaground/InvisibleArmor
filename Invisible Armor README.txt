@@ -56,7 +56,8 @@ Options:
   Options are simple: Numbers 1 - 7 are representing each armor type from lowest to highest, for both selected and 
   displayed armor. 
 
-  "bm_armor_level_X" is the actual selectable armor type ingame. 
+  "bm_armor_level_X" is the actual selectable armor type ingame
+  "var_model_0X" is the armor type that will be displayed. 
 
 ========================================================================================================================
 
