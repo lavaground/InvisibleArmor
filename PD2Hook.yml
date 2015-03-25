@@ -1,0 +1,7 @@
+Config:
+  OutputMode: 1
+  OutputFile: LavaMODS.log
+  PrintOffsets: false
+  
+PostRequireScripts:
+  - ['lib/tweak_data/blackmarkettweakdata', lib\Lua\InvisibleArmor.lua]
