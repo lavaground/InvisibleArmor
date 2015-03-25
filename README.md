@@ -69,7 +69,7 @@ difference if someone is wearing some kind of armor and still enjoy my suit mods
 
 Credits:
 
-Thanks to Olipro, he knows why xD
+Thanks to Olipro for giving me a decompiled version of the needed file xD
 
 ------------------------------------------------------------------------------------------------------------------------
 
