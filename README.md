@@ -22,7 +22,7 @@ Extract the contentes of the zip file to your [pd2_root] folder
 
 ========================================================================================================================
 
-Installation / Updates (if other mods are used):
+Installation / Updates (if other mods ARE used):
 
 - Extract the folder "lib" to your [pd2_root]
 
