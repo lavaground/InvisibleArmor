@@ -53,18 +53,16 @@ Options:
 
 - Open [pd2_root]/lib/Lua/InvisibleArmor.lua and change the number of each "var_model_0X", e.g. "var_model_07" for ICTV
   
-  Options are simple: Numbers 1 - 7 are representing each armor type from lowest to highest, for both selected and 
-  displayed armor. 
+  Options are simple: Numbers 1 - 7 are representing each armor type from lowest to highest, for both selected (level) and displayed armor (model). 
 
-  "bm_armor_level_X" is the actual selectable armor type ingame
-  "var_model_0X" is the armor type that will be displayed.
+  "bm_armor_level_X" is the actual selectable armor type ingame (level)
+  "var_model_0X" is the armor type that will be displayed. (model)
 
 ------------------------------------------------------------------------------------------------------------------------
 
 Notes:
 
-Have fun doing crazy combinations, i like to set it to "1: 1 - 2: 2 - 3: 2 - 4: 2 - 5: 2 - 6: 2 - 7: 2" so i can see a
-difference if someone is wearing some kind of armor and still enjoy my suit mods ;)
+Have fun doing crazy combinations, i like to set it to "LEVEL: MODEL = 1: 1 - 2: 2 - 3: 2 - 4: 2 - 5: 2 - 6: 2 - 7: 2" so i can see a difference if someone is wearing some kind of armor and still enjoy my suit mods ;)
 
 ========================================================================================================================
 
