@@ -45,7 +45,7 @@ Uninstall:
 Individual Uninstall:
 
 - Go to: [pd2_root]/lib/Lua and delete the file "Lua"
-   	     [pd2_root]/ and delete the entry in "PD2Hook.yml"
+   	 [pd2_root]/ and delete the entry in "PD2Hook.yml"
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -56,6 +56,7 @@ Options:
   Options are simple: Numbers 1 - 7 are representing each armor type from lowest to highest, for both selected (level) and displayed armor (model). 
 
   "bm_armor_level_X" is the actual selectable armor type ingame (level)
+  
   "var_model_0X" is the armor type that will be displayed. (model)
 
 ------------------------------------------------------------------------------------------------------------------------
