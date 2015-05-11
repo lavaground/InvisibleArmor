@@ -10,6 +10,10 @@ Mod incuded:
 
 Changelog:
 
+v1.01
+
+- Updated Hook
+
 v1.00
 
 - Release
